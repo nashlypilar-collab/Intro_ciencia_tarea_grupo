@@ -1,2 +1,2 @@
-# Intro_ciencia_tarea
+# Intro_ciencia_tarea_grupo
 Tareas ciencia de datos
